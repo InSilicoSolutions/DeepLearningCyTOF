@@ -1,3 +1,5 @@
 Data/allData.obj
 Result/saved_weights.hdf5
 **/.ipynb_checkpoints
+FCS_to_Array/agingData.obj
+FCS_to_Array/fcs_metadata.csv
