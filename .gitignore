@@ -6,3 +6,7 @@ FCS_to_Array/fcs_metadata.csv
 aging-cytof/*.obj
 aging-cytof/Result/*.hdf5
 aging-cytof/hp-search
+aging-cytof/automated/result
+aging-cytof/automated/*/result
+aging-cytof/automated/stdout
+aging-cytof/automated/**/*.png
